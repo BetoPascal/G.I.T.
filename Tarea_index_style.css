@@ -14,7 +14,9 @@ nav{
 	border-style: solid;
 	border-color: blue;
 }
-
+footer Li{
+	display:inline;
+}
 body{
 	color: navy;
 	font-size: 20px;
@@ -23,11 +25,6 @@ body{
 ul{
 	border:2px;
 	border-color: orange;
-	border-style: solid;
-}
-li{
-	border: 2px;
-	border-color: black;
 	border-style: solid;
 }
 a{
@@ -39,7 +36,6 @@ li {
 	color: red;
 	display: inline; 
 	border: 2px;
-	border-color: 
 	border-style: solid;
 }
 article{
